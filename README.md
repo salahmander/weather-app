@@ -4,7 +4,7 @@ React-Redux Weather App Using The Weather API
 Project made using React-redux using the weather API (With tetsing). Project Was made in 2019
 
 # Landing page
-https://gyazo.com/0e74379757b6fabe8bda445e443a36fb
+![alt text](https://github.com/salahmander/weather-app/githubImages/master/landing.png?raw=true)
 
 # Checking weather in paris
 ![alt text](https://gyazo.com/33ca230383f63df251a3e640d00b8b01)
