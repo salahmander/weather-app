@@ -1,0 +1,8 @@
+.weather-container {
+  width: 900px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 200px 500px;
+  background: rgba(0, 0, 0, 0.7);
+}

@@ -1,0 +1,52 @@
+* {
+  background: url(./assets/images/mountains.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.weather-container {
+  width: 900px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 200px 500px;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+@media only screen and (max-device-width: 480px) {
+  /* styles for mobile browsers smaller than 480px; (iPhone) */
+  .weather-container {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 80px 100px 50px 10px;
+    background: rgba(0, 0, 0, 0.7);
+  }
+}
+
+@media only screen and (device-width: 768px) {
+  /* default iPad screens */
+  .weather-container {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 100px 85px;
+    background: rgba(0, 0, 0, 0.7);
+  }
+}
+
+@media only screen and (device-width: 1024px) {
+  /* default iPad Pro screens */
+  .weather-container {
+    width: 750px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 200px 150px;
+    background: rgba(0, 0, 0, 0.7);
+  }
+}
