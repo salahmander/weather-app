@@ -10,3 +10,4 @@ Project made using React-redux using the weather API (With tetsing). Project Was
 # Checking weather in Northampton England
 ![Northampton](https://user-images.githubusercontent.com/16756025/95520878-2b508480-09c0-11eb-879a-8a29a823ab22.png)
 
+API link: https://openweathermap.org/api
